@@ -17,3 +17,6 @@ message: 'hi, Im a newbie'
 }
 resolve(profile)
 ```
+
+
+# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> aku harap kita bisa berteman dengan baik >.< 
