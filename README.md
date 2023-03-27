@@ -2,7 +2,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31peidtjmv4itssgg5awhg24mxoe?si=yvKmz8vFQY2YQZOz5PEbPg&utm_source=copy-link)
+[<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](1https://open.spotify.com/playlist/06AfY6s3OeJOj8gahMwfHO?si=L1czs858Qc-Fkc2Bz8UHWw&utm_source=copy-link)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
