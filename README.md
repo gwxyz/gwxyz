@@ -10,8 +10,8 @@
 ```js
 let profile = {
 newbie_programmer: true,
-code: N4N4,
-name: 'RW Dev',
+kode: 4YU,
+nama: 'RW Dev',
 gender: 'male',
 message: 'hi, Im a newbie'
 }
