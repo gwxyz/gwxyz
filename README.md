@@ -11,7 +11,7 @@
 let profile = {
 newbie_programmer: true,
 kode: 4YU,
-nama: 'RW Dev',
+nama: 'wtmsdrjt',
 gender: 'male',
 message: 'hi, Im a newbie'
 }
