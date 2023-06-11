@@ -19,5 +19,4 @@ resolve(profile)
 ```
 
 
-# Aku harap kita bisa berteman dengan baik >.< 
 <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">  
